@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  max-width: 400px;
+  margin: 40px auto;
+}
+
+form {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+input {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 8px 16px;
+}
+
+.err {
+  color: red;
+}
